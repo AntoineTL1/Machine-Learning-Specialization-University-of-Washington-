@@ -2,3 +2,5 @@
 *.gl
 # DS_STORE FILE
 *.DS_STORE
+# CHECKPOINTS FILE
+*.ipynb_checkpoints
